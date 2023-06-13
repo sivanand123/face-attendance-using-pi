@@ -1,0 +1,30 @@
+SOFTWARES USED :
+tkinter 
+cv2
+os
+csv
+tflite_runtime.
+numpy 
+datetime
+time
+serial
+pynmea2
+sqlite3
+imutils
+python ==3.9
+
+Steps for Execution :
+
+•	Follow the steps in the blog for installing opencv in raspberry pi.
+ https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition
+
+•	After installing all the necessary libraries follow the circuit diagram in the report to make connections.
+
+•	Follow this blog after connecting gps with raspberry pi to get proper location access.
+ https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
+
+•	Follow this blog after connecting RTC module with raspberry pi 
+https://www.instructables.com/Set-up-Real-Time-Clock-RTC-on-Raspberry-Pi/
+
+•	After following these steps we run the main.py file in the project file folder.
+
